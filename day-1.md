@@ -39,3 +39,9 @@ Here is a<br />line break
 
 ## Work with code
 This is `code`.
+
+## Track task lists
+- [x] First task
+- [x] Second task
+- [ ] Third task
+
