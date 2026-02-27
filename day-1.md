@@ -7,6 +7,8 @@ This is also _italic_ text.
 _This is **italic and bold** text_ using a single underscore for italic and double asterisks for bold.
 __This is bold and *italic* text__ using double underscores for bold and single asterisks for italic.
 
+***Hello, world!***
+
 \_This is all \*\*plain\*\* text\_.
 
 ## Declare headings
@@ -44,4 +46,5 @@ This is `code`.
 - [x] First task
 - [x] Second task
 - [ ] Third task
+
 
