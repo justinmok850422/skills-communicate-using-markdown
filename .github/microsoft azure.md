@@ -1,6 +1,6 @@
 
 # Microsoft Azure
-a **cloud computing platform** that allows organizations to build, run, and manage applications and services over the internet instead of on physical servers. 
+a _**cloud computing platform**_ that allows organizations to build, run, and manage applications and services over the internet instead of on physical servers. 
 
 # How Microsoft Azure works
 - Instead of buying servers in a data center.
