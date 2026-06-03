@@ -13,10 +13,10 @@ a cloud computing platform that allows organizations to build, run, and manage a
 
 # What Azure provides
 Azure offers a wide range of services including:
-Service | Description
-- | - 
-Compute | Virtual machines and application hosting
-Storage |  File, backup, and data storage
-Networking | Secure connections, VPN, load balancing
-Databases | Managed SQL and NoSQL databases
-AI & Analytics – Machine learning and data insights
+Service|Description
+-|- 
+Compute|Virtual machines and application hosting
+Storage| File, backup, and data storage
+Networking|Secure connections, VPN, load balancing
+Databases|Managed SQL and NoSQL databases
+AI & Analytics|Machine learning and data insights
