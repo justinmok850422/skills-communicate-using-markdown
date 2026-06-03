@@ -11,8 +11,8 @@ a cloud computing platform that allows organizations to build, run, and manage a
 1. Databases and storage
 - Everything is accessed through the internet
 
-# What Azure provides
-Azure offers a wide range of services including:
+# What Microsoft Azure provides
+Microsoft Azure offers a wide range of services including:
 Service|Description
 -|- 
 Compute|Virtual machines and application hosting
